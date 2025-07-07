@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+section {
+    margin: 3%;
+    max-width: 50%;
+}
